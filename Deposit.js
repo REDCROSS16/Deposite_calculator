@@ -1,4 +1,4 @@
-class Deposite
+class Deposit
 {
     constructor (startMoney, time, percent) {
         this.startMoney = startMoney;
